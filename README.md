@@ -1,6 +1,9 @@
 # Mateus de Sousa Raimundo
 
 ## Introdução
+<p>
+    <img align="right" src="docs/Ma.jpeg" alt="Foto de perfil" width="200" style="float: right; margin-left: 20px; margin-bottom: 20px;"/>
+</p>
 
 Meu nome é Mateus de Sousa e tenho 20 anos e iniciei meus estudos de Análise e Desenolvimento de Sistemas no segundo semestre de 2022. Na faculdade obtive experiências importantes para o meu conhecimento na área da tecnologia como particpar da maratona de programação da FATEC e realizar o curso de verão sobre os fundamentos da AWS que me fez entender os serviços de nuvem que eles ofereciam e conseguir um certificado da AWS.
 
