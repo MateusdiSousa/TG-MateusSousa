@@ -2,7 +2,7 @@
 
 ## Introdução
 <p>
-    <img align="right" src="docs/mateus.jpeg" alt="Foto de perfil" style="float: left; margin-right: 20px; margin-bottom: 20px; width: 20%; max-width: 110px; height: auto;"/>
+    <img align="left" src="docs/mateus.jpeg" alt="Foto de perfil" style="float: left; margin-right: 20px; margin-bottom: 20px; width: 20%; max-width: 110px; height: auto;"/>
 </p>
 
 
