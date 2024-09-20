@@ -29,16 +29,6 @@ Durante os semestre aprendi algumas linguagens de programação como Python, Jav
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-### Ferramentas
-<div style="display: inline_block">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-</div>
-
 ### Frameworks e Bibliotecas
 <div style="display: inline_block">
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
@@ -54,12 +44,42 @@ Durante os semestre aprendi algumas linguagens de programação como Python, Jav
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/CouchDB-EA2328?style=for-the-badge&logo=apache-couchdb&logoColor=white" />
-    
+</div>
+
+### Ferramentas
+<div style="display: inline_block">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 </div>
 
 ## Meus Projetos
 
-### Em 2022-2
+### 1º SEMESTRE - S.O.S (Service out System)
+
+**Data: Agosto/2022** <br></br>
+**Empresa: FATEC - Profº Jessen Vidal**<br></br>
+**Problema:** Realizar identificação de falhas nos computadores da FATEC com o propósito de abrir chamados internos para resolução do problema de maneira rápida e eficiente<br></br>
+**Proposta de solução:** A solução desse problema foi criação de um sistema web de ordem de chamados, visando centralizar os chamados para que o técnico tenha um ambiente próprio para visualização de todos os chamados, categorizados por problemas de hardware e software, além disso cada chamada possui a identificação de cada computador da FATEC<br></br>
+
+#### Tecnologias utilizadas
+ <ul>
+     <li> <b>HTML5:</b> </li>
+     <li> <b>CSS:</b> </li>
+     <li> <b>BOTSTRAP:</b> </li>
+     <li> <b>Python:</b> </li>
+     <li> <b>Flask:</b> </li>
+     <li> <b>MySQL:</b> </li>
+ </ul>
+
+Contribuições Pessoais
+
+Hard Skills
+
+Soft Skills
 Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
 
 [GIT](https://www.git.com)
