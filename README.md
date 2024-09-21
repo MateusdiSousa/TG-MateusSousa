@@ -10,6 +10,8 @@ Meu nome é Mateus de Sousa e tenho 20 anos e iniciei meus estudos de Análise e
 
 Durante os semestre aprendi algumas linguagens de programação como Python, Java e a métodologia ágil scrum, pude consolidar todos esses conhecimentos na prática com o método de Aprendizagem por Projetos Integrados (API), e graças a essa experiência no 3° semestre consegui iniciar minha carreira na área como estagiário na empresa IONIC Health onde contribuo na área de qualidade de software.
 
+No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, ministrada pelo Professor Dr. Joares Lindovino dos Reis, onde tive a oportunidade de aplicar técnicas de desenvolvimento de pesquisa em um trabalho acadêmico realizado em colaboração com o Professor Dr Ney Rafael Secco do Instituto Tecnológico de Aeronáutica (ITA), sob a orientação do Professor Fernando Masanori Ashikaga. Esse projeto envolveu a análise de um banco de dados de aeronaves utilizando Python, com o objetivo de aprimorar as técnicas de estimativa de distância de decolagem aplicáveis ao projeto conceitual desses veículos. Os resultados do estudo passaram a ser aplicados nas aulas de projeto de aeronaves no ITA.
+
 ## Contatos
   <a href = "https://github.com/MateusdiSousa" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/MateusdiSousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
