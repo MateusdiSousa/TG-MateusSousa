@@ -85,9 +85,17 @@ Durante os semestre aprendi algumas linguagens de programação como Python, Jav
  </ul>
 
 
-Hard Skills
+#### Hard Skills
+<ul>
+    <li><b>HTML5:</b> Criação de páginas html de forma semâtica e estruturada</li>
+    <li><b>CSS:</b> Estilização de página web focada na experiência de usuário</li>
+    <li><b>Bootstrap:</b> Estilização de uma página web de forma rápida e responsível, tendo melhor produtividade e aproveitamente de componentes prontos</li>
+    <li><b>Python:</b> Domínio de conceitos fundamentais da linguagem como tipos primitivos, estruturas de condição, estruturas de repetição e dados estruturados como arrays e dicionários </li>
+    <li><b>Flask:</b> Criação de APIs, integração do backend e frontend, conexão com banco de dados</li>
+    <li><b>MySQL:</b> Gerenciamente e Criação de um banco de dados, utilizando linguagem SQL para realizar consultas, manipulações e definições de dados</li>
+</ul>
 
-Soft Skills
+#### Soft Skills
 Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
 
 [GIT](https://www.git.com)
