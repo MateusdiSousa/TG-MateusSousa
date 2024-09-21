@@ -67,12 +67,12 @@ Durante os semestre aprendi algumas linguagens de programação como Python, Jav
 
 #### Tecnologias utilizadas
  <ul>
-     <li> <b>HTML5:</b> </li>
-     <li> <b>CSS:</b> </li>
-     <li> <b>BOTSTRAP:</b> </li>
-     <li> <b>Python:</b> </li>
-     <li> <b>Flask:</b> </li>
-     <li> <b>MySQL:</b> </li>
+     <li> <b>HTML5:</b> Linguagem de marcação utilizada na construção de páginas na Web</li>
+     <li> <b>CSS:</b> Linguagem de estilização usada para descrever a apresentação de um documento escrito em HTML</li>
+     <li> <b>Bootstrap:</b> Framework de CSS open-source utilizado para estilização de páginas web de forma responsiva</li>
+     <li> <b>Python:</b> Linguagem de programação de alto nível e interpretada, Criada em 1991 por Guido Van Rossum</li>
+     <li> <b>Flask:</b> Micro Framework Web escrito em Python</li>
+     <li> <b>MySQL:</b> Banco de dados relacional de código aberto</li>
  </ul>
 
 Contribuições Pessoais
