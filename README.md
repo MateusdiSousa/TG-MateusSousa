@@ -63,7 +63,7 @@ Durante os semestre aprendi algumas linguagens de programação como Python, Jav
 **Data: Agosto/2022** <br></br>
 **Empresa: FATEC - Profº Jessen Vidal**<br></br>
 **Problema:** Realizar identificação de falhas nos computadores da FATEC com o propósito de abrir chamados internos para resolução do problema de maneira rápida e eficiente<br></br>
-**Proposta de solução:** A solução desse problema foi criação de um sistema web de ordem de chamados, visando centralizar os chamados para que o técnico tenha um ambiente próprio para visualização de todos os chamados, categorizados por problemas de hardware e software, além disso cada chamada possui a identificação de cada computador da FATEC<br></br>
+**Proposta de solução:** A solução desse problema foi criação de um sistema web de ordem de chamados, visando centralizar os chamados para que o técnico tenha um ambiente próprio para visualização de todos os chamados, categorizados por problemas de hardware e software, além disso cada chamada possui a identificação de cada computador da FATEC<br>
 
 #### Tecnologias utilizadas
  <ul>
@@ -75,7 +75,15 @@ Durante os semestre aprendi algumas linguagens de programação como Python, Jav
      <li> <b>MySQL:</b> Banco de dados relacional de código aberto</li>
  </ul>
 
-Contribuições Pessoais
+#### Contribuições Pessoais
+ <ul>
+     <li>Criar a página do formulário de abertura de chamados</li>
+     <li>Criar a página que mostra os detalhes de hardware de uma máquina</li>
+     <li>Alimentar o banco de dados com os dados de todos os computadores da FATEC</li>
+     <li>Atualização dos dados de una máquina, criando a página web e o endpoint que realiza a operação de atualização no banco de dados utilizando o flask</li>
+     <li>Criação de um modal dinâmico que mostra soluções comuns para problemas de hardware ou software</li>
+ </ul>
+
 
 Hard Skills
 
