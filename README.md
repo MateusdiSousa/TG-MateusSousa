@@ -102,7 +102,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 <ul>
     <li><b>Gestão de tempo:</b> Priorizei meu tempo de acordo com a relevância da tarefa e o prazo estabelicido, visando entregar todas a funcionalidades essenciais estabelicidas na sprint em pleno funcionamento</li>
     <li><b>Comunicação:</b> Durante o projeto comunicava ao meu time meu progresso na realização de minhas tarefas mantendo todos sempre informados sobre o que estava fazendo</li>
-    <li><b>Trabalho em equioe:</b> Sempre que encontrava alguma dificuldade na realização de uma tarefa, conseguia pedir ajuda a um de meus companheiros, além de ajudar aqueles que precisavam de auxílio</li>
+    <li><b>Trabalho em equipe:</b> Sempre que encontrava alguma dificuldade na realização de uma tarefa, conseguia pedir ajuda a um de meus companheiros, além de ajudar aqueles que precisavam de auxílio</li>
 </ul>
 
 
