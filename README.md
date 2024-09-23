@@ -58,6 +58,16 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 </div>
 
+
+## :card_file_box: Cursos
+
+| Curso                                 | Plataforma                                                                                 | Status       |
+| :------------------------------------ | :----------------------------------------------------------------------------------------- | :----------- |
+| AWS Academy Cloud Foundations         | [AWS Academy](https://aws.amazon.com/pt/training/awsacademy/)                              | Concluído    |
+| Introduction to MongoDB               | [MongoDB](https://learn.mongodb.com/learning-paths/introduction-to-mongodb)                | Em Andamento |
+
+---
+
 ## Meus Projetos
 
 ### 1º SEMESTRE - S.O.S (Service out System)
