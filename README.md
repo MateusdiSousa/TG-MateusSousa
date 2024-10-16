@@ -100,12 +100,12 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 
 #### Hard Skills
 <ul>
-    <li><b>HTML5:</b> Criação de páginas html de forma semâtica e estruturada</li> (tenho autonomia)
-    <li><b>CSS:</b> Estilização de página web focada na experiência de usuário</li> (tenho autonomia)
-    <li><b>Bootstrap:</b> Estilização de uma página web de forma rápida e responsível, tendo melhor produtividade e aproveitamente de componentes prontos</li> (tenho autonomia)
-    <li><b>Python:</b> Domínio de conceitos fundamentais da linguagem como tipos primitivos, estruturas de condição, estruturas de repetição e dados estruturados como arrays e dicionários </li> (tenho autonomia)
-    <li><b>Flask:</b> Criação de APIs, integração do backend e frontend, conexão com banco de dados</li> (tenho autonomia)
-    <li><b>MySQL:</b> Gerenciamente e Criação de um banco de dados, utilizando linguagem SQL para realizar consultas, manipulações e definições de dados</li> (tenho autonomia)
+    <li><b>HTML5:</b> Criação de páginas html de forma semâtica e estruturada</li> (Uso com autonomia)
+    <li><b>CSS:</b> Estilização de página web focada na experiência de usuário</li> (Uso com autonomia)
+    <li><b>Bootstrap:</b> Estilização de uma página web de forma rápida e responsível, tendo melhor produtividade e aproveitamente de componentes prontos</li> (Uso com autonomia)
+    <li><b>Python:</b> Domínio de conceitos fundamentais da linguagem como tipos primitivos, estruturas de condição, estruturas de repetição e dados estruturados como arrays e dicionários </li> (Uso com autonomia)
+    <li><b>Flask:</b> Criação de APIs, integração do backend e frontend, conexão com banco de dados</li> (Uso com autonomia)
+    <li><b>MySQL:</b> Gerenciamente e Criação de um banco de dados, utilizando linguagem SQL para realizar consultas, manipulações e definições de dados</li> (Uso com autonomia)
 </ul>
 
 #### Soft Skills
@@ -143,9 +143,9 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 
 #### Hard Skills
 <ul>
-    <li> <b>Java:</b> Dômino dos fundamentos da linguagem, dos Paradigmas de uma linguiagem orientado a objetos e entendimentos das principais classes utilitárias como Files, String, List, Maps e Sets</li> (tenho autonomia)
-     <li> <b>JavaFX:</b> Criação de páginas e modais, além aplicar navegação de telas e implementar ações em casa componente</li> (tenho autonomia)
-     <li> <b>MySQL:</b> Modelagem,Criação e Gerenciamento de um banco de dados, utilizando linguagem SQL para realizar consultas, manipulações e definições de dados</li> (tenho autonomia)
+    <li> <b>Java:</b> Dômino dos fundamentos da linguagem, dos Paradigmas de uma linguiagem orientado a objetos e entendimentos das principais classes utilitárias como Files, String, List, Maps e Sets</li> (Consigo ensinar)
+     <li> <b>JavaFX:</b> Criação de páginas e modais, além aplicar navegação de telas e implementar ações em casa componente</li> (Uso com autonomia)
+     <li> <b>MySQL:</b> Modelagem,Criação e Gerenciamento de um banco de dados, utilizando linguagem SQL para realizar consultas, manipulações e definições de dados</li> (Consigo ensinar)
 </ul>
 
 #### Soft Skills
