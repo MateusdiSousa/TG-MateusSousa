@@ -132,29 +132,27 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 
 #### Contribuições Pessoais
  <ul>
-     <li>Criar a página do formulário de abertura de chamados</li>
-     <li>Criar a página que mostra os detalhes de hardware de uma máquina</li>
-     <li>Alimentar o banco de dados com os dados de todos os computadores da FATEC</li>
-     <li>Atualização dos dados de una máquina, criando a página web e o endpoint que realiza a operação de atualização no banco de dados utilizando o flask</li>
-     <li>Criação de um modal dinâmico que mostra soluções comuns para problemas de hardware ou software</li>
+     <li>Operações de Edição, Criação, Apagar e Leitura de dados no banco de dados utilizando jdbc</li>
+     <li>Implementar a navegação entre telas da aplicação</li>
+     <li>Criação de formulários utilizando JavaFX para realizar operações de criação e atualização de dados de alunos, salas e tarefas</li>
+     <li>Criação do gráfico de desempenho dos alunos</li>
+     <li>Modelagem e criação do banco do banco de dados</li>
+     <li>Gerenciamento do burndown e divisão de tarefas com scrum master</li>
  </ul>
 
 
 #### Hard Skills
 <ul>
-    <li><b>HTML5:</b> Criação de páginas html de forma semâtica e estruturada</li> (tenho autonomia)
-    <li><b>CSS:</b> Estilização de página web focada na experiência de usuário</li> (tenho autonomia)
-    <li><b>Bootstrap:</b> Estilização de uma página web de forma rápida e responsível, tendo melhor produtividade e aproveitamente de componentes prontos</li> (tenho autonomia)
-    <li><b>Python:</b> Domínio de conceitos fundamentais da linguagem como tipos primitivos, estruturas de condição, estruturas de repetição e dados estruturados como arrays e dicionários </li> (tenho autonomia)
-    <li><b>Flask:</b> Criação de APIs, integração do backend e frontend, conexão com banco de dados</li> (tenho autonomia)
-    <li><b>MySQL:</b> Gerenciamente e Criação de um banco de dados, utilizando linguagem SQL para realizar consultas, manipulações e definições de dados</li> (tenho autonomia)
+    <li> <b>Java:</b> Dômino dos fundamentos da linguagem, dos Paradigmas de uma linguiagem orientado a objetos e entendimentos das principais classes utilitárias como Files, String, List, Maps e Sets</li> (tenho autonomia)
+     <li> <b>JavaFX:</b> Criação de páginas e modais, além aplicar navegação de telas e implementar ações em casa componente</li> (tenho autonomia)
+     <li> <b>MySQL:</b> Modelagem,Criação e Gerenciamento de um banco de dados, utilizando linguagem SQL para realizar consultas, manipulações e definições de dados</li> (tenho autonomia)
 </ul>
 
 #### Soft Skills
 <ul>
-    <li><b>Gestão de tempo:</b> Priorizei meu tempo de acordo com a relevância da tarefa e o prazo estabelecido, visando entregar todas as funcionalidades essenciais estabelecidas na sprint em pleno funcionamento. Por exemplo, na primeira sprint eu tinha duas tarefas: criar a página de formulário para abrir um chamado e inserir todos os dados dos computadores da FATEC no banco de dados. Nessa situação, priorizei o banco de dados, pois seria uma tarefa que demandaria mais tempo e seria essencial para que outras atividades, como a abertura de chamados e a navegação pelas salas da FATEC, pudessem ser realizadas.</li>
-    <li><b>Comunicação:</b> Durante o projeto, eu comunicava ao meu time o progresso na realização das minhas tarefas, mantendo todos sempre informados sobre o que estava fazendo. Por exemplo, sempre que eu terminava uma tarefa, além de commitar no repositório, eu avisava o grupo durante as aulas e pedia feedback para o meu colega de equipe mais experiente, para garantir que tudo estava conforme o esperado.</li>
-    <li><b>Trabalho em equipe:</b> Sempre que encontrava alguma dificuldade na realização de uma tarefa, eu pedia ajuda a um dos meus colegas, além de oferecer auxílio àqueles que precisavam. Por exemplo, na 2ª sprint, eu tinha a tarefa de implementar a funcionalidade de atualização dos dados de uma máquina. Como ainda era iniciante, tive dificuldade em entender como trazer os dados do banco de dados para o formulário de atualização. Um dos meus colegas me deu a dica de passar o ID da máquina na URL e, em seguida, fazer uma requisição com o Flask para buscar os dados da máquina no banco de dados usando o ID da URL e, depois, preencher o formulário com esses dados.</li>
+    <li><b>Liderança:</b> Como scrum master eu utilizei aprimorei minhas habilidades como líder, compreendendo as dificuldades de cada membro considerando tempo disponível e facilidade com a linguagem utilizada para realizar a distribuição de tarefas para atingir o máximo de desempenho da equipe</li>
+    <li><b>Comunicação:</b> Durante esse projeto adquiri uma grande afinidade com linguagem utilizada e utilizei minhas habilidades de comunicação para transmitir o meu conhecimento para aqueles que possuiam mais dificuldade com a tecnologia. Além disso como scrum master tive que utilizar diversas vezes da comunicação para saber o andamento das atividades de cada membro e descobrir se existia algum impedimento na realização de uma tarefa</li>
+    <li><b>Trabalho em equipe:</b> Durante as aulas disponibilizadas para o desenvolvimento do projeto ajudava meus colegas de equipes com o compreendimento da tarefa e como ela poderia ser feita. Por exemplo, durante a segunda sprint um dos meus colegas de equipe mostraram dificuldade no aprendizado do JavaFX, então durante a aula disponibilizada para a realização do projeto sentava ao lado dele e explicava o passo a passo da criação de tela e como eu adicionava uma ação a um componente como botões e checkbox, além de ajudar a utilizar os métodos de classe já criadas</li>
 </ul>
 
 
