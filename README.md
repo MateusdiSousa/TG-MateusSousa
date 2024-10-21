@@ -246,7 +246,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
     <li><b>MySQL:</b> Modelagem,Criação e Gerenciamento de um banco de dados, utilizando linguagem SQL para realizar consultas simples ou com agregações de dados utilizando JOINS, manipulações, definições de dados e criações de TRIGGERS para manter a integridade dos dados e da regra de negócio.</li>
     (Uso com autonomia)
     <li><b>NestJS:</b> Tenho experiência na criação de aplicações backend com NestJS, incluindo a implementação de operações CRUD para gerenciar dados de forma eficiente. Desenvolvo sistemas de login com suporte a autenticação e autorização utilizando JWT. Também possuo experiência em armazenamento e recuperação de arquivos, Envio de e-mails de forma automatizada utilizando serviços como o mailgun, Além manipulação de arquivos como Word.</li>
-    (Uso com autonomia)
+    (Consigo ensinar)
     <li> <b>Tailwind:</b> Estilização e criação de componentes responsíveis de forma rápida e eficiênte.</li> 
     (Uso com autonomia)
 </ul>
