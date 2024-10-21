@@ -157,10 +157,10 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
     <li><b>Trabalho em equipe:</b> Durante as aulas disponibilizadas para o desenvolvimento do projeto ajudava meus colegas de equipes com o compreendimento da tarefa e como ela poderia ser feita. Por exemplo, durante a segunda sprint um dos meus colegas de equipe mostraram dificuldade no aprendizado do JavaFX, então durante a aula disponibilizada para a realização do projeto sentava ao lado dele e explicava o passo a passo da criação de tela e como eu adicionava uma ação a um componente como botões e checkbox, além de ajudar a utilizar os métodos de classe já criadas</li>
 </ul>
 
-### 3º SEMESTRE - WeDev
+### 3º SEMESTRE - Plataforma de gestão de processos regulatórios
 **Data: Agosto/2023**<br></br>
 **Empresa: Ionic Health - Empresa de tecnologia no ramo de equipamentos médicos<br></br>**
-**Link do projeto:** <a href="https://github.com/apiFatec/API-3-Semestre-Ionic">Portal de Agendamento de Reuniões</a><br></br>
+**Link do projeto:** <a href="https://github.com/apiFatec/API-3-Semestre-Ionic">Plataforma de gestão de processos regulatórios</a><br></br>
 **Problema:** A empresa necessitava de uma plataforma centralizada para gerenciar, monitorar e documentar seus processos regulatórios essenciais, uma vez que a falta dessa centralização comprometia a eficiência e a rastreabilidade das atividades.<br></br>
 **Proposta de solução:** A solução foi desenvolver uma plataforma web completa e intuitiva, que permitisse à Ionic Health gerenciar todos os seus processos regulatórios em um único sistema. A plataforma inclui funcionalidades como gestão de processos, monitoramento em tempo real, documentação completa, acompanhamento de prazos, notificações, geração de relatórios, controle de acesso e segurança de dados. Ela também oferece colaboração entre equipes, integração com ferramentas externas, auditoria, rastreabilidade e histórico de alterações, promovendo a eficiência e a organização dos processos da empresa.<br></br>
 
@@ -204,7 +204,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 </ul>
 
 
-### 4º SEMESTRE - MULAS
+### 4º SEMESTRE - Portal de Agendamento de Reuniões
 **Data:** Fevereiro/2024 <br></br>
 **Empresa:** SIATT, Aŕea de desenvolvimento de munições guiadas<br></br>
 **Link do projeto:** <a href="https://github.com/m-u-l-a-s/API-SIATT">Portal de Agendamento de Reuniões</a><br></br>
