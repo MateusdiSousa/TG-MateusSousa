@@ -73,7 +73,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 ### 1º SEMESTRE - S.O.S (Service out System)
 
 **Data: Agosto/2022** <br></br>
-**Empresa: FATEC - Profº Jessen Vidal (Professor Antônio Egydio São Thiago da Graça)**<br></br>
+**Empresa: FATEC - Prof. Jessen Vidal (Professor Antônio Egydio São Thiago da Graça)**<br></br>
 **Link do projeto:** <a href="https://github.com/apiFatec/SOS_API">SOS_API<a/><br></br>
 **Problema:** Realizar identificação de falhas nos computadores da FATEC com o propósito de abrir chamados internos para resolução do problema de maneira rápida e eficiente<br></br>
 **Proposta de solução:** A solução desse problema foi criação de um sistema web de ordem de chamados, visando centralizar os chamados para que o técnico tenha um ambiente próprio para visualização de todos os chamados, categorizados por problemas de hardware e software, além disso cada chamada possui a identificação de cada computador da FATEC<br>
@@ -118,23 +118,23 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 
 ### 2º SEMESTRE - WeClass
 
-**Data: Fevereriro/2023** <br></br>
-**Empresa:** FATEC - Profº Jessen Vidal (Professor Giuliano Araújo Bertoti)<br></br>
+**Data: Fevereiro/2023** <br></br>
+**Empresa:** FATEC - Prof. Jessen Vidal (Professor Giuliano Araújo Bertoti)<br></br>
 **Link do projeto:** <a href="https://github.com/apiFatec/API-2-Semestre-Bertoti">WeClass<a/><br></br>
-**Problema:** Realizar o gerenciamento de entregas de atividades dos alunos em sala de aula e visualizar o desempenho da sala de forma fácil e rápido<br></br>
-**Proposta de solução:** A solução desse problema foi criação aplicação java desktop sem necessidade de acesso a internet que é capaz de cadastrar salas de aula e alunos que compõem ela, atribuir tarefas a uma sala de aula, atribuir nota a atividade realizada por um aluno e a geração de gráficos de forma automática que mostra o desempenho dos alunos.<br>
+**Problema:** Realizar o gerenciamento de entregas de atividades dos alunos em sala de aula e visualizar o desempenho da sala de forma fácil e rápida<br></br>
+**Proposta de solução:** A solução desse problema foi criação de uma aplicação java desktop sem necessidade de acesso a internet que é capaz de cadastrar salas de aula e alunos que compõem-na, atribuir tarefas a uma sala de aula, atribuir nota a atividade realizada por um aluno e a geração de gráficos de forma automática que mostra o desempenho dos alunos.<br>
 
 #### Tecnologias utilizadas
  <ul>
-     <li> <b>Java:</b> Linguagem de programação de alto nível, orientada a objetos com foco em portabilidade e desempenho, Criada em 1991 pela empresa Sun Microsystems</li>
-     <li> <b>JavaFX:</b> Plataforma de software destinada para criação de aplicações desktop com utilizando java </li>
+     <li> <b>Java:</b> Linguagem de programação de alto nível, orientada a objetos com foco em portabilidade e desempenho, criada em 1991 pela empresa Sun Microsystems</li>
+     <li> <b>JavaFX:</b> Plataforma de software destinada à criação de aplicações desktop com utilizando java </li>
      <li> <b>MySQL:</b> Banco de dados relacional de código aberto</li>
  </ul>
 
 #### Contribuições Pessoais
 **Como scrum master realizei as seguintes contribuições para o projeto**
- <ul>
-     <li>Operações de Edição, Criação, Apagar e Leitura de dados no banco de dados utilizando jdbc</li>
+ <ul>c
+     <li>Operações de edição, criação, exclusão e leitura de dados no banco de dados utilizando jdbc</li>
      <li>Implementar a navegação entre telas da aplicação</li>
      <li>Criação de formulários utilizando JavaFX para realizar operações de criação e atualização de dados de alunos, salas e tarefas</li>
      <li>Criação do gráfico de desempenho dos alunos</li>
@@ -145,15 +145,15 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 
 #### Hard Skills
 <ul>
-    <li> <b>Java:</b> Dômino dos fundamentos da linguagem, dos Paradigmas de uma linguiagem orientado a objetos e entendimentos das principais classes utilitárias como Files, String, List, Maps e Sets</li> (Consigo ensinar)
-     <li> <b>JavaFX:</b> Criação de páginas e modais, além aplicar navegação de telas e implementar ações em casa componente</li> (Uso com autonomia)
-     <li> <b>MySQL:</b> Modelagem,Criação e Gerenciamento de um banco de dados, utilizando linguagem SQL para realizar consultas, manipulações e definições de dados</li> (Uso com autonomia)
+    <li> <b>Java:</b> Dômino dos fundamentos da linguagem, dos paradigmas de uma linguagem orientada a objetos e entendimentos das principais classes utilitárias como Files, String, List, Maps e Sets</li> (Consigo ensinar)
+     <li> <b>JavaFX:</b> Criação de páginas e modais, além de aplicar navegação de telas e implementar ações em cada componente.</li> (Uso com autonomia)
+     <li> <b>MySQL:</b> Modelagem, criação e gerenciamento de um banco de dados, utilizando linguagem SQL para realizar consultas, manipulações e definições de dados</li> (Uso com autonomia)
 </ul>
 
 #### Soft Skills
 <ul>
     <li><b>Liderança:</b> Como scrum master eu utilizei aprimorei minhas habilidades como líder, compreendendo as dificuldades de cada membro considerando tempo disponível e facilidade com a linguagem utilizada para realizar a distribuição de tarefas para atingir o máximo de desempenho da equipe</li>
-    <li><b>Comunicação:</b> Durante esse projeto adquiri uma grande afinidade com linguagem utilizada e utilizei minhas habilidades de comunicação para transmitir o meu conhecimento para aqueles que possuiam mais dificuldade com a tecnologia. Além disso como scrum master tive que utilizar diversas vezes da comunicação para saber o andamento das atividades de cada membro e descobrir se existia algum impedimento na realização de uma tarefa</li>
+    <li><b>Comunicação:</b> Durante esse projeto adquiri uma grande afinidade com linguagem utilizada e utilizei minhas habilidades de comunicação para transmitir o meu conhecimento para aqueles que possuíam mais dificuldade com a tecnologia. Além disso como scrum master tive que utilizar diversas vezes da comunicação para saber o andamento das atividades de cada membro e descobrir se existia algum impedimento na realização de uma tarefa</li>
     <li><b>Trabalho em equipe:</b> Durante as aulas disponibilizadas para o desenvolvimento do projeto ajudava meus colegas de equipes com o compreendimento da tarefa e como ela poderia ser feita. Por exemplo, durante a segunda sprint um dos meus colegas de equipe mostraram dificuldade no aprendizado do JavaFX, então durante a aula disponibilizada para a realização do projeto sentava ao lado dele e explicava o passo a passo da criação de tela e como eu adicionava uma ação a um componente como botões e checkbox, além de ajudar a utilizar os métodos de classe já criadas</li>
 </ul>
 
@@ -178,8 +178,8 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 **Como desenvolvedor realizei as seguintes contribuições para o projeto**
 <ul>
     <li>Implementei o endpoint que gerenciava as operações relacionadas a ISOs. Isso inclui métodos para criar, listar, atualizar e remover ISOs, além de um método para fazer upload de arquivos ISO, permitindo que o sistema manipule eficientemente dados de ISOs e ofereça funcionalidades de upload e recuperação de arquivos.</li>
-    <li>Contribuí para o componente modal, que gerencia a exibição e manipulação de tarefas, implementando funcionalidades para listar arquivos associados a uma tarefa, permitir que os usuários se juntem ou deixem uma tarefa, além de permiter que os usuários mudem o status da tarefa para "concluído" ou "em andamento" </li>
-    <li>Implementei a notificação por e-mail para o gestor da equipe quando uma tarefa mudava para o status de "concluída" para que ele soube sobre o andamento do projeto e pudesse realizar revisão para saber se a tarefa foi concluída como esperado</li>
+    <li>Contribuí para o componente modal, que gerencia a exibição e manipulação de tarefas, implementando funcionalidades para listar arquivos associados a uma tarefa, permitir que os usuários se juntem ou deixem uma tarefa, além de permitir que os usuários mudem o status da tarefa para "concluído" ou "em andamento" </li>
+    <li>Implementei a notificação por e-mail para o gestor da equipe quando uma tarefa mudava para o status de "concluída", assim sabendo sobre o andamento do projeto e pudesse realizar revisões para saber se a tarefa foi concluída como esperado</li>
     <li>Desenvolvi o componente que exibe uma lista de arquivos relacionados a uma tarefa. A implementação inclui a formatação dos nomes dos arquivos para melhorar a legibilidade e facilitar a navegação pelos documentos.</li>
     <li>Implementei o service de tarefas utilizado para gerenciar os arquivos e tarefas, incluindo anexo de arquivos associados a uma tarefa, assim gerando evidências de que a tarefa foi concluída</li>
 </ul>
@@ -199,7 +199,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 #### Soft Skills
 <ul>
     <li><b>Proatividade:</b> No começo do desenvolvimento do projeto um dos integrantes do grupo que trabalhava no backend recomendou utilizarmos o NestJS, então durante os 3 primeiros dias da primeira sprint estudei a tecnologia e criei uma API para gerenciamento de tarefas utilizando o TypeORM para comunicação com o banco de dados. para assim conseguir de forma mais rápida contribuir para a equipe trabalhando no backend junto deste integrante</li>
-    <li><b>Colaboração:</b>Durante o desenvolvimento do projeto trabalhei a maior parte do tempo no backend, e tive que colaborar com os desenvolvedores do frontend para realizar a integração com o backend de forma eficaz. exemplo: Existia uma tarefa relacionada ao cadastro de ISOs, depois que desenvolvi a funcionalidade no backend no dia seguinte conversei com o responsável em criar o componente de cadastro de ISOs para informálo qual seria a rota utilizada e quais dados ele teria que enviar para realizar o cadastro com sucesso.</li>
+    <li><b>Colaboração:</b> Durante o desenvolvimento do projeto trabalhei a maior parte do tempo no backend, e tive que colaborar com os desenvolvedores do frontend para realizar a integração com o backend de forma eficaz. exemplo: Existia uma tarefa relacionada ao cadastro de ISOs, depois que desenvolvi a funcionalidade no backend no dia seguinte conversei com o responsável em criar o componente de cadastro de ISOs para informá-lo qual seria a rota utilizada e quais dados ele teria que enviar para realizar o cadastro com sucesso.</li>
     <li><b>Organização:</b> Nesse projeto junto de uma integrante do grupo fomos responsáveis pela a apresentação do produto ao cliente. então sempre no dia da entrega me comunicava com todos os integrantes da equipe para saber todas as funcionalidades criadas na sprint e junto do PO montava um roteiro de como seria demonstração do software rodando, priorizando uma apresentação dinâmica mostrando todas as funcionalidades novas desenvolvidas na sprint</li>
 </ul>
 
@@ -240,7 +240,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
     (Uso com autonomia)
     <li><b>NestJS:</b> Tenho experiência na criação de aplicações backend com NestJS, incluindo a implementação de operações CRUD para gerenciar dados de forma eficiente. Desenvolvo sistemas de login com suporte a autenticação e autorização utilizando JWT. Também possuo experiência em armazenamento e recuperação de arquivos, Envio de e-mails de forma automatizada utilizando serviços como o mailgun, Além manipulação de arquivos como Word.</li>
     (Consigo ensinar)
-    <li> <b>Tailwind:</b> Estilização e criação de componentes responsíveis de forma rápida e eficiênte.</li> 
+    <li> <b>Tailwind:</b> Estilização e criação de componentes responsíveis de forma rápida e eficiente.</li> 
     (Uso com autonomia)
 </ul>
 
