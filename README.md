@@ -1,4 +1,4 @@
-# Mateus de Sousa Raimundo
+s# Mateus de Sousa Raimundo
 
 ## Introdução
 <p>
@@ -89,6 +89,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
  </ul>
 
 #### Contribuições Pessoais
+**Como desenvolvedor realizei as seguintes contribuições para o projeto**
  <ul>
      <li>Criar a página do formulário de abertura de chamados</li>
      <li>Criar a página que mostra os detalhes de hardware de uma máquina</li>
@@ -131,13 +132,14 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
  </ul>
 
 #### Contribuições Pessoais
+**Como scrum master realizei as seguintes contribuições para o projeto**
  <ul>
      <li>Operações de Edição, Criação, Apagar e Leitura de dados no banco de dados utilizando jdbc</li>
      <li>Implementar a navegação entre telas da aplicação</li>
      <li>Criação de formulários utilizando JavaFX para realizar operações de criação e atualização de dados de alunos, salas e tarefas</li>
      <li>Criação do gráfico de desempenho dos alunos</li>
      <li>Modelagem e criação do banco do banco de dados</li>
-     <li>Gerenciamento do burndown e divisão de tarefas com scrum master</li>
+     <li>Gerenciamento do burndown e divisão de tarefas como scrum master</li>
  </ul>
 
 
@@ -167,6 +169,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
     <li> <b>Figma:</b> Ferramenta de design colaborativo baseada na web, utilizada para criar protótipos interativos para o usuário.</li>
     <li> <b>PostgreSQL:</b> Sistema gerenciador de banco de dados relacional avançado e de código aberto, que oferece robustez e escalabilidade para a gestão de informações complexas.</li>
     <li> <b>Node.js:</b> Ambiente de execução JavaScript no lado do servidor, ideal para o desenvolvimento de aplicações escaláveis e com alta performance.</li>
+    <li> <b>NestJS:</b> NestJS (ou apenas Nest) é um framework Node.js de código aberto destinado ao desenvolvimento de aplicativos do lado do servidor criado por Kamil Mysliwiec</li>
     <li> <b>JavaScript:</b> Linguagem de programação amplamente utilizada para o desenvolvimento de aplicações web interativas e dinâmicas.</li>
     <li> <b>TypeScript:</b> Superconjunto tipado de JavaScript, que adiciona tipagem estática opcional, aumentando a robustez e a segurança do código, além de facilitar a manutenção em projetos de maior complexidade.</li>
     <li> <b>Tailwind:</b> Framework utilitário para estilização, que proporciona uma abordagem modular e personalizável para o desenvolvimento de interfaces, permitindo rapidez e consistência no design.</li>
@@ -174,20 +177,21 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 </ul>
 
 #### Contribuições Pessoais
+**Como desenvolvedor realizei as seguintes contribuições para o projeto**
 <ul>
-    <li>Implementei o controlador que gerencia as operações relacionadas a ISOs. Isso inclui métodos para criar, listar, atualizar e remover ISOs, além de um método para fazer upload de arquivos ISO, permitindo que o sistema manipule eficientemente dados de ISOs e ofereça funcionalidades de upload e recuperação de arquivos.</li>
+    <li>Implementei o endpoint que gerenciava as operações relacionadas a ISOs. Isso inclui métodos para criar, listar, atualizar e remover ISOs, além de um método para fazer upload de arquivos ISO, permitindo que o sistema manipule eficientemente dados de ISOs e ofereça funcionalidades de upload e recuperação de arquivos.</li>
     <li>Adicionei o método <b>uploadFile</b>, que usa um interceptor para lidar com o upload de arquivos, garantindo que os arquivos enviados sejam processados corretamente e armazenados no sistema, melhorando a usabilidade ao permitir uploads simplificados.</li>
     <li>Implementei o método <b>getIso</b>, que permite a leitura e recuperação de arquivos ISO do sistema de arquivos, facilitando o acesso dos usuários aos arquivos armazenados.</li>
-    <li>Contribuí para o componente modal, que gerencia a exibição e manipulação de tarefas, implementando funcionalidades para listar arquivos associados a uma tarefa, além de permitir que os usuários se juntem ou deixem uma tarefa, aprimorando a interação do usuário com o sistema.</li>
-    <li>Desenvolvi o componente <b>FileList</b>, que exibe uma lista de arquivos relacionados a uma tarefa. A implementação inclui a formatação dos nomes dos arquivos para melhorar a legibilidade e facilitar a navegação pelos documentos.</li>
-    <li>Implementei o <b>TaskService</b>, que fornece métodos para gerenciar arquivos e tarefas, incluindo o envio de arquivos associados a uma tarefa, garantindo a integração eficiente entre frontend e backend.</li>
+    <li>Contribuí para o componente modal, que gerencia a exibição e manipulação de tarefas, implementando funcionalidades para listar arquivos associados a uma tarefa, permitir que os usuários se juntem ou deixem uma tarefa, além de permiter que os usuários mudem o estado da tarefa para "concluído" ou "em andamento" </li>
+    <li>Desenvolvi o componente que exibe uma lista de arquivos relacionados a uma tarefa. A implementação inclui a formatação dos nomes dos arquivos para melhorar a legibilidade e facilitar a navegação pelos documentos.</li>
+    <li>Implementei o service de tarefas utilizado para gerenciar os arquivos e tarefas, incluindo anexo de arquivos associados a uma tarefa, assim gerando evidências de que a tarefa foi concluída</li>
 </ul>
 
 #### Hard Skills
 <ul>
     <li> <b>TypeScript e NestJS:</b> Desenvolvimento de aplicações backend utilizando TypeScript e NestJS, com foco na criação de controladores, serviços e operações CRUD. Além de manipulação de arquivos podendo armazenar e resgatar arquivos no servidor</li>
     (Uso com autonomia)
-    <li> <b>React:</b> Desenvolvimento de interfaces de usuário utilizando React, com ênfase na criação de componentes como modais e listas interativas. Além de criação de serviçoes para consumir APIs</li>
+    <li> <b>React:</b> Desenvolvimento de interfaces de usuário utilizando React, com ênfase na criação de componentes como modais e listas interativas. Além de criação de services para o consumo APIs</li>
     (Uso com autonomia) 
     <li> <b>PostgreSQL:</b> Consultas SQL para manipulação de dados, incluindo criação e manutenção de tabelas e execução de operações CRUD.</li>
     (Uso com autonomia)
@@ -196,6 +200,11 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 </ul>
 
 #### Soft Skills
+<ul>
+    <li><b>Proatividade:</b> No começo do desenvolvimento do projeto um dos integrantes do grupo que trabalhava no backend recomendou utilizarmos o NestJS, então durante os 3 primeiros dias da primeira sprint estudei a tecnologia e criei uma API para gerenciamento de tarefas utilizando o TypeORM para comunicação com o banco de dados. para assim conseguir de forma mais rápida contribuir para a equipe trabalhando no backend junto deste integrante</li>
+    <li><b>Colaboração:</b>Durante o desenvolvimento do projeto trabalhei a maior parte do tempo no backend, e tive que colaborar com os desenvolvedores do frontend para realizar a integração com o backend de forma eficaz. exemplo: Existia uma tarefa relacionada ao cadastro de ISOs, depois que desenvolvi a funcionalidade no backend no dia seguinte conversei com o responsável em criar o componente de cadastro de ISOs para informálo qual seria a rota utilizada e quais dados ele teria que enviar para realizar o cadastro com sucesso.</li>
+    <li><b>Organização:</b> Nesse projeto junto de uma integrante do grupo fomos responsáveis pela a apresentação do produto ao cliente. então sempre no dia da entrega me comunicava com todos os integrantes de cada equipe e junto do PO montava o roteiro da demonstração do software rodando, priorizando uma apresentação dinâmica mostrando todas as funcionalidades novas desenvolvidas na sprint</li>
+</ul>
 
 ### Em 2022-2
 Mesmo formato
@@ -210,3 +219,4 @@ Mesmo formato
 
 
 
+ primei 
