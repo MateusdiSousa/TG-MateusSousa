@@ -180,9 +180,8 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 **Como desenvolvedor realizei as seguintes contribuições para o projeto**
 <ul>
     <li>Implementei o endpoint que gerenciava as operações relacionadas a ISOs. Isso inclui métodos para criar, listar, atualizar e remover ISOs, além de um método para fazer upload de arquivos ISO, permitindo que o sistema manipule eficientemente dados de ISOs e ofereça funcionalidades de upload e recuperação de arquivos.</li>
-    <li>Adicionei o método <b>uploadFile</b>, que usa um interceptor para lidar com o upload de arquivos, garantindo que os arquivos enviados sejam processados corretamente e armazenados no sistema, melhorando a usabilidade ao permitir uploads simplificados.</li>
-    <li>Implementei o método <b>getIso</b>, que permite a leitura e recuperação de arquivos ISO do sistema de arquivos, facilitando o acesso dos usuários aos arquivos armazenados.</li>
-    <li>Contribuí para o componente modal, que gerencia a exibição e manipulação de tarefas, implementando funcionalidades para listar arquivos associados a uma tarefa, permitir que os usuários se juntem ou deixem uma tarefa, além de permiter que os usuários mudem o estado da tarefa para "concluído" ou "em andamento" </li>
+    <li>Contribuí para o componente modal, que gerencia a exibição e manipulação de tarefas, implementando funcionalidades para listar arquivos associados a uma tarefa, permitir que os usuários se juntem ou deixem uma tarefa, além de permiter que os usuários mudem o status da tarefa para "concluído" ou "em andamento" </li>
+    <li>Implementei a notificação por e-mail para o gestor da equipe quando uma tarefa mudava para o status de "concluída" para que ele soube sobre o andamento do projeto e pudesse realizar revisão para saber se a tarefa foi concluída como esperado</li>
     <li>Desenvolvi o componente que exibe uma lista de arquivos relacionados a uma tarefa. A implementação inclui a formatação dos nomes dos arquivos para melhorar a legibilidade e facilitar a navegação pelos documentos.</li>
     <li>Implementei o service de tarefas utilizado para gerenciar os arquivos e tarefas, incluindo anexo de arquivos associados a uma tarefa, assim gerando evidências de que a tarefa foi concluída</li>
 </ul>
