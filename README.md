@@ -118,7 +118,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 ### 2º SEMESTRE - WeClass
 
 **Data: Fevereriro/2023** <br></br>
-**Empresa: FATEC - Profº Jessen Vidal (Professor Giuliano Araújo Bertoti)**<br></br>
+**Empresa:** FATEC - Profº Jessen Vidal (Professor Giuliano Araújo Bertoti)<br></br>
 **Link do projeto:** <a href="https://github.com/apiFatec/API-2-Semestre-Bertoti">WeClass<a/><br></br>
 **Problema:** Realizar o gerenciamento de entregas de atividades dos alunos em sala de aula e visualizar o desempenho da sala de forma fácil e rápido<br></br>
 **Proposta de solução:** A solução desse problema foi criação aplicação java desktop sem necessidade de acesso a internet que é capaz de cadastrar salas de aula e alunos que compõem ela, atribuir tarefas a uma sala de aula, atribuir nota a atividade realizada por um aluno e a geração de gráficos de forma automática que mostra o desempenho dos alunos.<br>
@@ -155,9 +155,47 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
     <li><b>Trabalho em equipe:</b> Durante as aulas disponibilizadas para o desenvolvimento do projeto ajudava meus colegas de equipes com o compreendimento da tarefa e como ela poderia ser feita. Por exemplo, durante a segunda sprint um dos meus colegas de equipe mostraram dificuldade no aprendizado do JavaFX, então durante a aula disponibilizada para a realização do projeto sentava ao lado dele e explicava o passo a passo da criação de tela e como eu adicionava uma ação a um componente como botões e checkbox, além de ajudar a utilizar os métodos de classe já criadas</li>
 </ul>
 
+### 3º SEMESTRE - WeDev
+**Data: Agosto/2023**<br></br>
+**Empresa: Ionic Health <br></br>**
+**Link do projeto:** <a href="https://github.com/apiFatec/API-3-Semestre-Ionic">Portal de Agendamento de Reuniões</a><br></br>
+**Problema:** A empresa necessitava de uma plataforma centralizada para gerenciar, monitorar e documentar seus processos regulatórios essenciais, uma vez que a falta dessa centralização comprometia a eficiência e a rastreabilidade das atividades.<br></br>
+**Proposta de solução:** A solução foi desenvolver uma plataforma web completa e intuitiva, que permitisse à Ionic Health gerenciar todos os seus processos regulatórios em um único sistema. A plataforma inclui funcionalidades como gestão de processos, monitoramento em tempo real, documentação completa, acompanhamento de prazos, notificações, geração de relatórios, controle de acesso e segurança de dados. Ela também oferece colaboração entre equipes, integração com ferramentas externas, auditoria, rastreabilidade e histórico de alterações, promovendo a eficiência e a organização dos processos da empresa.<br></br>
 
-### Em 2022-1
-Mesmo formato
+#### Tecnologias utilizadas
+<ul> 
+    <li> <b>Figma:</b> Ferramenta de design colaborativo baseada na web, utilizada para criar protótipos interativos para o usuário.</li>
+    <li> <b>PostgreSQL:</b> Sistema gerenciador de banco de dados relacional avançado e de código aberto, que oferece robustez e escalabilidade para a gestão de informações complexas.</li>
+    <li> <b>Node.js:</b> Ambiente de execução JavaScript no lado do servidor, ideal para o desenvolvimento de aplicações escaláveis e com alta performance.</li>
+    <li> <b>JavaScript:</b> Linguagem de programação amplamente utilizada para o desenvolvimento de aplicações web interativas e dinâmicas.</li>
+    <li> <b>TypeScript:</b> Superconjunto tipado de JavaScript, que adiciona tipagem estática opcional, aumentando a robustez e a segurança do código, além de facilitar a manutenção em projetos de maior complexidade.</li>
+    <li> <b>Tailwind:</b> Framework utilitário para estilização, que proporciona uma abordagem modular e personalizável para o desenvolvimento de interfaces, permitindo rapidez e consistência no design.</li>
+    <li> <b>GitHub:</b> Plataforma de hospedagem de código-fonte que permite o controle de versões e a colaboração em equipe, facilitando a gestão do desenvolvimento do projeto e a integração contínua.</li>
+</ul>
+
+#### Contribuições Pessoais
+<ul>
+    <li>Implementei o controlador que gerencia as operações relacionadas a ISOs. Isso inclui métodos para criar, listar, atualizar e remover ISOs, além de um método para fazer upload de arquivos ISO, permitindo que o sistema manipule eficientemente dados de ISOs e ofereça funcionalidades de upload e recuperação de arquivos.</li>
+    <li>Adicionei o método <b>uploadFile</b>, que usa um interceptor para lidar com o upload de arquivos, garantindo que os arquivos enviados sejam processados corretamente e armazenados no sistema, melhorando a usabilidade ao permitir uploads simplificados.</li>
+    <li>Implementei o método <b>getIso</b>, que permite a leitura e recuperação de arquivos ISO do sistema de arquivos, facilitando o acesso dos usuários aos arquivos armazenados.</li>
+    <li>Contribuí para o componente modal, que gerencia a exibição e manipulação de tarefas, implementando funcionalidades para listar arquivos associados a uma tarefa, além de permitir que os usuários se juntem ou deixem uma tarefa, aprimorando a interação do usuário com o sistema.</li>
+    <li>Desenvolvi o componente <b>FileList</b>, que exibe uma lista de arquivos relacionados a uma tarefa. A implementação inclui a formatação dos nomes dos arquivos para melhorar a legibilidade e facilitar a navegação pelos documentos.</li>
+    <li>Implementei o <b>TaskService</b>, que fornece métodos para gerenciar arquivos e tarefas, incluindo o envio de arquivos associados a uma tarefa, garantindo a integração eficiente entre frontend e backend.</li>
+</ul>
+
+#### Hard Skills
+<ul>
+    <li> <b>TypeScript e NestJS:</b> Desenvolvimento de aplicações backend utilizando TypeScript e NestJS, com foco na criação de controladores, serviços e operações CRUD. Além de manipulação de arquivos podendo armazenar e resgatar arquivos no servidor</li>
+    (Uso com autonomia)
+    <li> <b>React:</b> Desenvolvimento de interfaces de usuário utilizando React, com ênfase na criação de componentes como modais e listas interativas. Além de criação de serviçoes para consumir APIs</li>
+    (Uso com autonomia) 
+    <li> <b>PostgreSQL:</b> Consultas SQL para manipulação de dados, incluindo criação e manutenção de tabelas e execução de operações CRUD.</li>
+    (Uso com autonomia)
+    <li> <b>GitHub:</b> Controle de versionamento e colaboração em equipe, incluindo o gerenciamento de branches e commits para projetos de software.</li> 
+    (Uso com autonomia)
+</ul>
+
+#### Soft Skills
 
 ### Em 2022-2
 Mesmo formato
