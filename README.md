@@ -133,7 +133,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 
 #### Contribuições Pessoais
 **Como scrum master realizei as seguintes contribuições para o projeto**
- <ul>c
+ <ul>
      <li>Operações de edição, criação, exclusão e leitura de dados no banco de dados utilizando jdbc</li>
      <li>Implementar a navegação entre telas da aplicação</li>
      <li>Criação de formulários utilizando JavaFX para realizar operações de criação e atualização de dados de alunos, salas e tarefas</li>
@@ -246,7 +246,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 
 #### Soft Skills
 <ul>
-    <li><b>Empatia:</b> Durante o desenvolvimento do projeto um dos integrantes da equipe estavam passando por uma situação que limitava o seu tempo para realizar as suas tarefas. sabendo dessa situação me ofereci para cobrir parte de suas tarefas até que a situação normalizasse e ele conseguisse trabalhar normalmente</li>
+    <li><b>Empatia:</b> Durante o desenvolvimento do projeto um dos integrantes da equipe estavam passando por uma situação que limitava o seu tempo para realizar as suas tarefas. Sabendo dessa situação me ofereci para cobrir parte de suas tarefas até que a situação normalizasse e ele conseguisse trabalhar normalmente</li>
     <li><b>Mentoria:</b> Nesse projeto eu estava trabalhando com uma equipe diferentes dos projetos anteriores, sugeri utilizarmos alguns framewoeks como o NestJS e o GitFlow. então nos 2 primeiros dias da 1º Sprint fizemos uma ligação no discord onde expliquei as duas tecnologias, na primeira aula criei um projeto backend com operações no banco de dados junto com os integrantes utilizando o NestJS, e na segunda aula ensinei sobre como utilizar o gitflow para realizar a gestão e desenvolvimento do projeto utilizando branching (ramificações)</li>
     <li><b>Trabalho em equipe:</b> Durante o desenvolvimento do projeto, um dos integrantes da equipe encontrou dificuldades ao tentar capturar os dados e arquivos de um formulário e enviá-los ao backend para agendar uma reunião. Em resposta, organizei uma videochamada para ajudá-lo, explicando de forma clara e prática como adicionar arquivos a uma requisição HTTP utilizando o Axios. Além disso, sugeri a criação de um type que representasse todos os dados que deveriam ser enviados ao endpoint, garantindo a validação dos dados antes de realizar a requisição. Essa abordagem também visava manter a organização e a legibilidade do código, ajudando a equipe para quando fosse necessário realizar alteração no código</li>
 </ul>
