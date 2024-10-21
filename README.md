@@ -166,14 +166,12 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 
 #### Tecnologias utilizadas
 <ul> 
-    <li> <b>Figma:</b> Ferramenta de design colaborativo baseada na web, utilizada para criar protótipos interativos para o usuário.</li>
     <li> <b>PostgreSQL:</b> Sistema gerenciador de banco de dados relacional avançado e de código aberto, que oferece robustez e escalabilidade para a gestão de informações complexas.</li>
     <li> <b>Node.js:</b> Ambiente de execução JavaScript no lado do servidor, ideal para o desenvolvimento de aplicações escaláveis e com alta performance.</li>
     <li> <b>NestJS:</b> NestJS é um framework Node.js de código aberto destinado ao desenvolvimento de aplicativos do lado do servidor criado por Kamil Mysliwiec</li>
     <li> <b>JavaScript:</b> Linguagem de programação amplamente utilizada para o desenvolvimento de aplicações web interativas e dinâmicas.</li>
     <li> <b>TypeScript:</b> Superconjunto tipado de JavaScript, que adiciona tipagem estática opcional, aumentando a robustez e a segurança do código, além de facilitar a manutenção em projetos de maior complexidade.</li>
     <li> <b>Tailwind:</b> Framework utilitário para estilização, que proporciona uma abordagem modular e personalizável para o desenvolvimento de interfaces, permitindo rapidez e consistência no design.</li>
-    <li> <b>GitHub:</b> Plataforma de hospedagem de código-fonte que permite o controle de versões e a colaboração em equipe, facilitando a gestão do desenvolvimento do projeto e a integração contínua.</li>
 </ul>
 
 #### Contribuições Pessoais
@@ -193,8 +191,6 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
     <li> <b>React (Typescript):</b> Desenvolvimento de interfaces de usuário utilizando React, com ênfase na criação de componentes como modais e listas interativas. Além de criação de services para o consumo APIs</li>
     (Uso com autonomia) 
     <li> <b>PostgreSQL:</b> Consultas SQL para manipulação de dados, incluindo criação e manutenção de tabelas e execução de operações CRUD.</li>
-    (Uso com autonomia)
-    <li> <b>GitHub:</b> Controle de versionamento e colaboração em equipe, incluindo o gerenciamento de branches e commits para projetos de software.</li> 
     (Uso com autonomia)
     <li> <b>Tailwind:</b> Estilização e criação de componentes responsíveis de forma rápida e eficiênte.</li> 
     (Uso com autonomia)
@@ -217,7 +213,6 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 
 #### Tecnologias utilizadas
 <ul>
-    <li><b>Figma:</b> Ferramenta de design colaborativo baseada na web, utilizada para criar protótipos interativos e layouts de interface de usuário.</li>
     <li><b>React:</b> Biblioteca JavaScript de código aberto, mantida pelo Facebook, usada para construir interfaces de usuário dinâmicas e interativas.</li>
     <li><b>MySQL:</b> Banco de dados relacional de código aberto que permite a criação e gestão eficiente de tabelas e consultas para armazenar informações estruturadas.</li>
     <li><b>Node.js:</b> Ambiente de execução JavaScript no lado do servidor, ideal para o desenvolvimento de aplicações escaláveis e com alta performance.</li>
@@ -225,7 +220,6 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
     <li><b>JavaScript:</b> Linguagem de programação amplamente utilizada para o desenvolvimento de aplicações web interativas e dinâmicas.</li>
     <li><b>TypeScript:</b> Superconjunto tipado de JavaScript, que adiciona tipagem estática opcional, aumentando a robustez e a segurança do código, além de facilitar a manutenção em projetos de maior complexidade.</li>
     <li><b>Tailwind:</b> Framework utilitário para estilização, que proporciona uma abordagem modular e personalizável para o desenvolvimento de interfaces, permitindo rapidez e consistência no design.</li>
-    <li><b>GitHub:</b> Plataforma de hospedagem de código-fonte que permite o controle de versões e a colaboração em equipe, facilitando a gestão do desenvolvimento do projeto e a integração contínua.</li>
 </ul>
 
 #### Contribuições Pessoais
