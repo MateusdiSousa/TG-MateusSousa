@@ -271,11 +271,11 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 #### Contribuições Pessoais
 <ul>
     <li>Modelagem e criação do banco de dados</li>
-    <li>Criação dos endpoints e services relacionadas a criação, atualização, leitura e remoção de salas e usuários</li>
-    <li>Implementação de um sistema de login na plataforma utilizando JWT.</li>
-    <li>Criação de ATAs de forma automatizada utilizando os dados da reunião e dos membros presentes nela.</li>
-    <li>Implementação do Mailgun para o envio de e-mails para usuários quando tiverem uma reunião agendada.</li>
-    <li>Integração com a plataforma de reuniões online Zoom. quando criada uma reunião no sistema, a reunião será criada na plataforma do zoom.</li>
+    <li>Criação dos endpoints e services relacionadas a criação, atualização, leitura e remoção de Culturas</li>
+    <li>Implementação do banco de dados local no aplicativo mobile.</li>
+    <li>Implementação da sincronização do banco de dados local com o banco de dados remoto.</li>
+    <li>Criação dos services de criação, atualização, leitura e removação de dados do banco de dados local watermelondb.</li>
+    <li>Implementação dos services nas telas do aplicativo mobile, permitindo a visualização e criação de dados banco de dados através do GUI.</li>
 </ul>
 
 #### Hard Skills
