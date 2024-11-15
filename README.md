@@ -223,6 +223,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 </ul>
 
 #### Contribuições Pessoais
+**Como desenvolvedor realizei as seguintes contribuições para o projeto**
 <ul>
     <li>Modelagem e criação do banco de dados</li>
     <li>Criação dos endpoints e services relacionadas a criação, atualização, leitura e remoção de salas e usuários</li>
@@ -253,14 +254,14 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 
 ### 5º SEMESTRE - ClimaMonitor
 **Data:** Agosto/2024 <br></br>
-**Empresa:** Kersys, Aŕea de gestão florestal<br></br>
+**Empresa:** Kersys, Área de gestão florestal<br></br>
 **Link do projeto:** <a href="https://github.com/m-u-l-a-s/ClimaMonitor">ClimaMonitor</a><br></br>
 **Problema:** Os clientes da Kersys tinham um problema em relação ao monitoramento de suas áreas verdes, pois não conseguiam manter o histórico de dados climáticos da região e saber quando as áreas verdes passavam por uma situação agravante decorrente da alta ou baixa temperatura.<br></br>
-**Proposta de solução:** Desenvolvemos um aplicativo mobile que realiza os registros da temperatura e pluviometria de áreas cadastradas pelo usúario além de gerar gráficos sobre a temperatura e pluviometria e alertas quando um desse dados extrapolarem o limite dado pelo usuário.<br></br>
+**Proposta de solução:** Desenvolvemos um aplicativo mobile que realiza os registros da temperatura e pluviometria de áreas cadastradas pelo usuário além de gerar gráficos sobre a temperatura e pluviometria e alertas quando um desses dados extrapolarem o limite dado pelo usuário.<br></br>
 
 #### Tecnologias utilizadas
 <ul>
-    <li><b>React Native:</b> Framework de código aberto criado pela Meta Platforms utilizada para desenvolvimento mobile utilizando javascript ou typescript</li>
+    <li><b>React Native:</b> Framework de código aberto criado pela Meta Platforms utilizado para desenvolvimento mobile utilizando javascript ou typescript</li>
     <li><b>WatermelonDB:</b> Banco de dados local rápido e escalável para aplicativos móveis, projetado para lidar com grandes volumes de dados e sincronização offline.</li>
     <li><b>MongoDB:</b> O MongoDB é um banco de dados NoSQL orientado a documentos que armazena dados em formato JSON, oferecendo flexibilidade e escalabilidade.</li>
     <li><b>Node.js:</b> Ambiente de execução JavaScript no lado do servidor, ideal para o desenvolvimento de aplicações escaláveis e com alta performance.</li>
@@ -269,13 +270,14 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 </ul>
 
 #### Contribuições Pessoais
+**Como desenvolvedor realizei as seguintes contribuições para o projeto**
 <ul>
     <li>Modelagem e criação do banco de dados</li>
-    <li>Criação dos endpoints e services relacionadas a criação, atualização, leitura e remoção de Culturas</li>
+    <li>Criação dos endpoints e services relacionados a criação, atualização, leitura e remoção de Culturas</li>
     <li>Implementação do banco de dados local no aplicativo mobile.</li>
     <li>Implementação da sincronização do banco de dados local com o banco de dados remoto.</li>
-    <li>Criação dos services de criação, atualização, leitura e removação de dados do banco de dados local watermelondb.</li>
-    <li>Implementação dos services nas telas do aplicativo mobile, permitindo a visualização e criação de dados banco de dados através do GUI.</li>
+    <li>Criação dos services de criação, atualização, leitura e remoção de dados do banco de dados local watermelondb.</li>
+    <li>Implementação dos services nas telas do aplicativo mobile, permitindo a visualização e criação de dados no banco de dados através da GUI.</li>
 </ul>
 
 #### Hard Skills
@@ -286,7 +288,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
     (Uso com autonomia)
     <li><b>MongoDB:</b> Experiência no uso de banco de dados NoSQL para armazenar e gerenciar grandes volumes de dados. Habilidade em criar modelos e executar consultas otimizadas para atender a diferentes necessidades do sistema.</li>
     (Uso com autonomia)
-    <li><b>NestJS:</b> Proeficiência no desenvolvimento de APIs, com foco na criação de endpoints para operações CRUD. Experiência em sincronização de bancos locais e remotos e na implementação de lógica de negócios para gerenciar dados climáticos.</li>
+    <li><b>NestJS:</b> Proficiência no desenvolvimento de APIs, com foco na criação de endpoints para operações CRUD. Experiência em sincronização de bancos locais e remotos e na implementação de lógica de negócios para gerenciar dados climáticos.</li>
     (Consigo ensinar)
     <li> <b>Typescript:</b> Experiência no uso de TypeScript para adicionar segurança ao código, reduzindo erros e facilitando a manutenção em projetos de maior complexidade.</li> 
     (Uso com autonomia)
@@ -294,7 +296,6 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 
 #### Soft Skills
 <ul>
-    <li><b>Empatia:</b> Durante o desenvolvimento do projeto um dos integrantes da equipe estavam passando por uma situação que limitava o seu tempo para realizar as suas tarefas. Sabendo dessa situação me ofereci para cobrir parte de suas tarefas até que a situação normalizasse e ele conseguisse trabalhar normalmente</li>
-    <li><b>Mentoria:</b> Nesse projeto eu estava trabalhando com uma equipe diferentes dos projetos anteriores, sugeri utilizarmos alguns framewoeks como o NestJS e o GitFlow. então nos 2 primeiros dias da 1º Sprint fizemos uma ligação no discord onde expliquei as duas tecnologias, na primeira aula criei um projeto backend com operações no banco de dados junto com os integrantes utilizando o NestJS, e na segunda aula ensinei sobre como utilizar o gitflow para realizar a gestão e desenvolvimento do projeto utilizando branching (ramificações)</li>
-    <li><b>Trabalho em equipe:</b> Durante o desenvolvimento do projeto, um dos integrantes da equipe encontrou dificuldades ao tentar capturar os dados e arquivos de um formulário e enviá-los ao backend para agendar uma reunião. Em resposta, organizei uma videochamada para ajudá-lo, explicando de forma clara e prática como adicionar arquivos a uma requisição HTTP utilizando o Axios. Além disso, sugeri a criação de um type que representasse todos os dados que deveriam ser enviados ao endpoint, garantindo a validação dos dados antes de realizar a requisição. Essa abordagem também visava manter a organização e a legibilidade do código, ajudando a equipe para quando fosse necessário realizar alteração no código</li>
-</ul>
+    <li><b>Resiliência:</b> Durante o desenvolvimento do projeto, fui responsável pela implementação de um banco de dados offline que sincronizasse com o banco remoto, um dos principais desafios técnicos. Enfrentei várias dificuldades, como a incompatibilidade do PouchDB com React Native e a descontinuidade de um recurso fundamental do MongoDB Realm. Após duas tentativas frustradas e sem possibilidade de mudar novamente a tecnologia, adaptei a solução utilizando WatermelonDB, um banco relacional, implementando manualmente a sincronização com o MongoDB. Essa experiência exigiu persistência, criatividade e capacidade de aprender rapidamente, culminando na entrega bem-sucedida dessa funcionalidade crítica para o projeto.</li>
+    <li><b>Colaboração:</b> Durante a implementação do WatermelonDB como banco de dados local, alguns colegas enfrentaram dificuldades em utilizar os services que eu havia desenvolvido. Para apoiá-los, sentei ao lado deles durante a aula, ajudando-os a implementar e criar novos services necessários para suas tarefas. Por exemplo, colaborei com um colega na criação de um service para a aba de notificações do aplicativo, que verificava o último alerta de cada cultura e comparava com a data atual, retornando notificações sobre limites excedidos. Essa abordagem garantiu a conclusão das tarefas e fortaleceu o trabalho em equipe.</li>
+    </ul>
