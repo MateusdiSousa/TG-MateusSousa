@@ -280,13 +280,15 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 
 #### Hard Skills
 <ul>
-    <li><b>React (TypeScript):</b> Domínio na construção de interfaces dinâmicas, com ênfase no uso de componentes reutilizáveis e gerenciadores de estado para manipulação de dados. Habilidade em criar formulários complexos e realizar integração eficiente com APIs, garantindo uma navegação fluida e intuitiva entre diferentes páginas da aplicação.</li>
+    <li><b>React Native:</b> Habilidade em construção de interfaces mobile, utilizando componentes reutilizáveis e gerenciadores de estado para garantir a sincronização e manipulação de dados. Experiência em integração de APIs.</li>
     (Uso com autonomia)
-    <li><b>MySQL:</b> Modelagem,Criação e Gerenciamento de um banco de dados, utilizando linguagem SQL para realizar consultas simples ou com agregações de dados utilizando JOINS, manipulações, definições de dados e criações de TRIGGERS para manter a integridade dos dados e da regra de negócio.</li>
+    <li><b>WatermelonDB:</b> Capacidade de implementar bancos de dados locais em aplicativos móveis e sincronização offline-online. Experiência em criar serviços para CRUDs no WatermelonDB e integrá-los com interfaces de usuário para visualização e manipulação de dados em tempo real.</li>
     (Uso com autonomia)
-    <li><b>NestJS:</b> Tenho experiência na criação de aplicações backend com NestJS, incluindo a implementação de operações CRUD para gerenciar dados de forma eficiente. Desenvolvo sistemas de login com suporte a autenticação e autorização utilizando JWT. Também possuo experiência em armazenamento e recuperação de arquivos, Envio de e-mails de forma automatizada utilizando serviços como o mailgun, Além manipulação de arquivos como Word.</li>
+    <li><b>MongoDB:</b> Experiência no uso de banco de dados NoSQL para armazenar e gerenciar grandes volumes de dados. Habilidade em criar modelos e executar consultas otimizadas para atender a diferentes necessidades do sistema.</li>
+    (Uso com autonomia)
+    <li><b>NestJS:</b> Proeficiência no desenvolvimento de APIs, com foco na criação de endpoints para operações CRUD. Experiência em sincronização de bancos locais e remotos e na implementação de lógica de negócios para gerenciar dados climáticos.</li>
     (Consigo ensinar)
-    <li> <b>Tailwind:</b> Estilização e criação de componentes responsíveis de forma rápida e eficiente.</li> 
+    <li> <b>Typescript:</b> Experiência no uso de TypeScript para adicionar segurança ao código, reduzindo erros e facilitando a manutenção em projetos de maior complexidade.</li> 
     (Uso com autonomia)
 </ul>
 
