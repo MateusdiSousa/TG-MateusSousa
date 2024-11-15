@@ -1,4 +1,4 @@
-s# Mateus de Sousa Raimundo
+# Mateus de Sousa Raimundo
 
 ## Introdução
 <p>
