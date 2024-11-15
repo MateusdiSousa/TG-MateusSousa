@@ -250,4 +250,49 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
     <li><b>Mentoria:</b> Nesse projeto eu estava trabalhando com uma equipe diferentes dos projetos anteriores, sugeri utilizarmos alguns framewoeks como o NestJS e o GitFlow. então nos 2 primeiros dias da 1º Sprint fizemos uma ligação no discord onde expliquei as duas tecnologias, na primeira aula criei um projeto backend com operações no banco de dados junto com os integrantes utilizando o NestJS, e na segunda aula ensinei sobre como utilizar o gitflow para realizar a gestão e desenvolvimento do projeto utilizando branching (ramificações)</li>
     <li><b>Trabalho em equipe:</b> Durante o desenvolvimento do projeto, um dos integrantes da equipe encontrou dificuldades ao tentar capturar os dados e arquivos de um formulário e enviá-los ao backend para agendar uma reunião. Em resposta, organizei uma videochamada para ajudá-lo, explicando de forma clara e prática como adicionar arquivos a uma requisição HTTP utilizando o Axios. Além disso, sugeri a criação de um type que representasse todos os dados que deveriam ser enviados ao endpoint, garantindo a validação dos dados antes de realizar a requisição. Essa abordagem também visava manter a organização e a legibilidade do código, ajudando a equipe para quando fosse necessário realizar alteração no código</li>
 </ul>
- 
+
+### 5º SEMESTRE - ClimaMonitor
+**Data:** Agosto/2024 <br></br>
+**Empresa:** Kersys, Aŕea de gestão florestal<br></br>
+**Link do projeto:** <a href="https://github.com/m-u-l-a-s/ClimaMonitor">ClimaMonitor</a><br></br>
+**Problema:** Os clientes da Kersys tinham um problema em relação ao monitoramento de suas áreas verdes, pois não conseguiam manter o histórico de dados climáticos da região e saber quando as áreas verdes passavam por uma situação agravante decorrente da alta ou baixa temperatura.<br></br>
+**Proposta de solução:** Desenvolvemos um aplicativo mobile que realiza os registros da temperatura e pluviometria de áreas cadastradas pelo usúario além de gerar gráficos sobre a temperatura e pluviometria e alertas quando um desse dados extrapolarem o limite dado pelo usuário.<br></br>
+
+#### Tecnologias utilizadas
+<ul>
+    <li><b>React Native:</b> Framework de código aberto criado pela Meta Platforms utilizada para desenvolvimento mobile utilizando javascript ou typescript</li>
+    <li><b>WatermelonDB:</b> Banco de dados local rápido e escalável para aplicativos móveis, projetado para lidar com grandes volumes de dados e sincronização offline.</li>
+    <li><b>MongoDB:</b> O MongoDB é um banco de dados NoSQL orientado a documentos que armazena dados em formato JSON, oferecendo flexibilidade e escalabilidade.</li>
+    <li><b>Node.js:</b> Ambiente de execução JavaScript no lado do servidor, ideal para o desenvolvimento de aplicações escaláveis e com alta performance.</li>
+    <li><b>NestJS:</b> NestJS é um framework Node.js de código aberto destinado ao desenvolvimento de aplicativos do lado do servidor criado por Kamil Mysliwiec</li>
+    <li><b>TypeScript:</b> Superconjunto tipado de JavaScript, que adiciona tipagem estática opcional, aumentando a robustez e a segurança do código, além de facilitar a manutenção em projetos de maior complexidade.</li>
+</ul>
+
+#### Contribuições Pessoais
+<ul>
+    <li>Modelagem e criação do banco de dados</li>
+    <li>Criação dos endpoints e services relacionadas a criação, atualização, leitura e remoção de salas e usuários</li>
+    <li>Implementação de um sistema de login na plataforma utilizando JWT.</li>
+    <li>Criação de ATAs de forma automatizada utilizando os dados da reunião e dos membros presentes nela.</li>
+    <li>Implementação do Mailgun para o envio de e-mails para usuários quando tiverem uma reunião agendada.</li>
+    <li>Integração com a plataforma de reuniões online Zoom. quando criada uma reunião no sistema, a reunião será criada na plataforma do zoom.</li>
+</ul>
+
+#### Hard Skills
+<ul>
+    <li><b>React (TypeScript):</b> Domínio na construção de interfaces dinâmicas, com ênfase no uso de componentes reutilizáveis e gerenciadores de estado para manipulação de dados. Habilidade em criar formulários complexos e realizar integração eficiente com APIs, garantindo uma navegação fluida e intuitiva entre diferentes páginas da aplicação.</li>
+    (Uso com autonomia)
+    <li><b>MySQL:</b> Modelagem,Criação e Gerenciamento de um banco de dados, utilizando linguagem SQL para realizar consultas simples ou com agregações de dados utilizando JOINS, manipulações, definições de dados e criações de TRIGGERS para manter a integridade dos dados e da regra de negócio.</li>
+    (Uso com autonomia)
+    <li><b>NestJS:</b> Tenho experiência na criação de aplicações backend com NestJS, incluindo a implementação de operações CRUD para gerenciar dados de forma eficiente. Desenvolvo sistemas de login com suporte a autenticação e autorização utilizando JWT. Também possuo experiência em armazenamento e recuperação de arquivos, Envio de e-mails de forma automatizada utilizando serviços como o mailgun, Além manipulação de arquivos como Word.</li>
+    (Consigo ensinar)
+    <li> <b>Tailwind:</b> Estilização e criação de componentes responsíveis de forma rápida e eficiente.</li> 
+    (Uso com autonomia)
+</ul>
+
+#### Soft Skills
+<ul>
+    <li><b>Empatia:</b> Durante o desenvolvimento do projeto um dos integrantes da equipe estavam passando por uma situação que limitava o seu tempo para realizar as suas tarefas. Sabendo dessa situação me ofereci para cobrir parte de suas tarefas até que a situação normalizasse e ele conseguisse trabalhar normalmente</li>
+    <li><b>Mentoria:</b> Nesse projeto eu estava trabalhando com uma equipe diferentes dos projetos anteriores, sugeri utilizarmos alguns framewoeks como o NestJS e o GitFlow. então nos 2 primeiros dias da 1º Sprint fizemos uma ligação no discord onde expliquei as duas tecnologias, na primeira aula criei um projeto backend com operações no banco de dados junto com os integrantes utilizando o NestJS, e na segunda aula ensinei sobre como utilizar o gitflow para realizar a gestão e desenvolvimento do projeto utilizando branching (ramificações)</li>
+    <li><b>Trabalho em equipe:</b> Durante o desenvolvimento do projeto, um dos integrantes da equipe encontrou dificuldades ao tentar capturar os dados e arquivos de um formulário e enviá-los ao backend para agendar uma reunião. Em resposta, organizei uma videochamada para ajudá-lo, explicando de forma clara e prática como adicionar arquivos a uma requisição HTTP utilizando o Axios. Além disso, sugeri a criação de um type que representasse todos os dados que deveriam ser enviados ao endpoint, garantindo a validação dos dados antes de realizar a requisição. Essa abordagem também visava manter a organização e a legibilidade do código, ajudando a equipe para quando fosse necessário realizar alteração no código</li>
+</ul>
