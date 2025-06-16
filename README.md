@@ -330,7 +330,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 <ul>
     <li> <b>MongoDB:</b> Capacidade de criar schemas, consultas otimizadas e agregações para análise de dados.</li>
     (Uso com autonomia)
-    <li> <b>Vue.js:</b> Desenvolvimento de interfaces de usuário utilizando Vue.js, com ênfase na criação de componentes reutilizáveis em todo o código como tabelas, formulários, cards etc. Além de criação de services para o consumo APIs, armazenamento de dados utilizando LocalStorage, roteamento de páginas e estilização</li>
+    <li> <b>Vue.js:</b> Desenvolvimento de interfaces de usuário utilizando Vue.js, com ênfase na criação de componentes reutilizáveis em todo o código como tabelas, formulários, cards etc. Além de criação de services para o consumo APIs, armazenamento de dados utilizando LocalStorage, roteamento de páginas e estilização.</li>
     (Uso com autonomia) 
     <li> <b>FastAPI:</b> Habilidade para desenvolver uma API integrada a MongoDB, ChromaDB e serviços de LLM (OpenAI/DeepSeek).</li>
     (Uso com autonomia)
@@ -338,7 +338,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
     (Uso com autonomia)
     <li> <b>TypeScript:</b> Experiência no uso de TypeScript para adicionar segurança ao código, reduzindo erros e facilitando a manutenção em projetos de maior complexidade.</li> 
     (Uso com autonomia)
-    <li> <b>ChromaDB:</b> Capacidade de armazenar e recuperar dados vetoriazados utilizando da linguagem de programação Python e suas bibliotecas para ler, processar e tokenizar textos, PDFs e CSVs para armazenar para então armazenar seus dados vetorizados no banco de dados</li> 
+    <li> <b>ChromaDB:</b> Capacidade de armazenar e recuperar dados vetoriazados utilizando da linguagem de programação Python e suas bibliotecas para ler, processar e tokenizar textos, PDFs e CSVs para armazenar para então armazenar seus dados vetorizados no banco de dados.</li> 
     (Uso com autonomia)
 </ul>
 
