@@ -299,3 +299,54 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
     <li><b>Resiliência:</b> Durante o desenvolvimento do projeto, fui responsável pela implementação de um banco de dados offline que sincronizasse com o banco remoto, um dos principais desafios técnicos. Enfrentei várias dificuldades, como a incompatibilidade do PouchDB com React Native e a descontinuidade de um recurso fundamental do MongoDB Realm. Após duas tentativas frustradas e sem possibilidade de mudar novamente a tecnologia, adaptei a solução utilizando WatermelonDB, um banco relacional, implementando manualmente a sincronização com o MongoDB. Essa experiência exigiu persistência, criatividade e capacidade de aprender rapidamente, culminando na entrega bem-sucedida dessa funcionalidade crítica para o projeto.</li>
     <li><b>Colaboração:</b> Durante a implementação do WatermelonDB como banco de dados local, alguns colegas enfrentaram dificuldades em utilizar os services que eu havia desenvolvido. Para apoiá-los, sentei ao lado deles durante a aula, ajudando-os a implementar e criar novos services necessários para suas tarefas. Por exemplo, colaborei com um colega na criação de um service para a aba de notificações do aplicativo, que verificava o último alerta de cada cultura e comparava com a data atual, retornando notificações sobre limites excedidos. Essa abordagem garantiu a conclusão das tarefas e fortaleceu o trabalho em equipe.</li>
     </ul>
+
+### 6º SEMESTRE - Sistema base para Apredizado por Reforço a partir de feedback humano.
+**Data: Fevereiro/2025**<br></br>
+**Empresa: Doom Rock - Empresa de tecnologia do ramo da tecnologia<br></br>**
+**Link do projeto:** <a href="https://github.com/FATEC-FULLSTACK/API6">Sistema base para RLHF</a><br></br>
+**Problema:** A Doom Rock necessitava de um sistema centralizado para coletar avaliações humanas sobre respostas de LLMs (com e sem RAG), visando preparar dados para o retreinamento dos modelos com base no feedback dos usuários..<br></br>
+**Proposta de solução:** A solução foi desenvolver uma aplicação web de avaliação de respostas na qual o usuário enviaria um prompt para o servidor e seria retornado a resposta de duas LLMs com seus modelos não revelados, após isso o usuário realizará uma avaliação de qual modelo foi melhor seguindo os critérios definidos pelo cliente e justificando a resposta. Então todas as informações gerados serão armazenadas em um banco de dados que servirá para futuros retreinamentos<br></br>
+
+#### Tecnologias utilizadas
+<ul> 
+    <li> <b>MongoDB:</b> Banco de dados NoSQL para armazenamento flexível dos documentos de avaliação.</li>
+    <li> <b>FastAPI:</b> Framework Python para construção da API RESTful, garantindo escalabilidade e performance.</li>
+    <li> <b>Python:</b> Linguagem principal do backend, com uso de bibliotecas como LangChain, SpaCy e PyMongo.</li>
+    <li> <b>Vue.js:</b> Framework frontend JavaScript/TypeScript desenvolvido para criação de SPA(SImple Page Application).</li>
+    <li> <b>TypeScript:</b> Superconjunto tipado de JavaScript, que adiciona tipagem estática opcional, aumentando a robustez e a segurança do código, além de facilitar a manutenção em projetos de maior complexidade.</li>
+    <li><b>ChromaDB:</b> Banco de dados vetorial para armazenar e recuperar embeddings de textos (RAG).</li>
+</ul>
+
+#### Contribuições Pessoais
+**Como desenvolvedor realizei as seguintes contribuições para o projeto**
+<ul>
+    <li>Desenvolvimento do schema de como os dados das avaliações seriam armazenados no banco de dados (MongoDB).</li>
+    <li>Criação das rotas e services relacionadas a criação, leitura e deleção dos dados referente as avaliações do banco de dados, além disso desenvolvi a rota utilizada para geração do dashboard das LLMs com melhor desempenho</li>
+    <li>Implementação de aleatoriedade na seleção dos modelos para resposta aos usuários.</li>
+    <li>Conexão com o ChromaDB para recuperação de dados vetoriais, usando o prompt do usuário como contexto para as LLMs..</li>
+</ul>
+
+#### Hard Skills
+<ul>
+    <li> <b>MongoDB:</b> Capacidade de criar schemas, consultas otimizadas e agregações para análise de dados.</li>
+    (Uso com autonomia)
+    <li> <b>Vue.js:</b> Desenvolvimento de interfaces de usuário utilizando Vue.js, com ênfase na criação de componentes reutilizáveis em todo o código como tabelas, formulários, cards etc. Além de criação de services para o consumo APIs, armazenamento de dados utilizando LocalStorage, roteamento de páginas e estilização</li>
+    (Uso com autonomia) 
+    <li> <b>FastAPI:</b> Habilidade para desenvolver uma API integrada a MongoDB, ChromaDB e serviços de LLM (OpenAI/DeepSeek).</li>
+    (Uso com autonomia)
+    <li> <b>Python:</b> Capacidade de seguir todos os conceitos da Orientação a Objetos, utilização de bibliotecas úteis para o desenvolvimento de agentes de IA e sistemas comuns como langchain, spacy, pymongo, chromadb, fastapi entre outros.</li> 
+    (Uso com autonomia)
+    <li> <b>TypeScript:</b> Experiência no uso de TypeScript para adicionar segurança ao código, reduzindo erros e facilitando a manutenção em projetos de maior complexidade.</li> 
+    (Uso com autonomia)
+    <li> <b>ChromaDB:</b> Capacidade de armazenar e recuperar dados vetoriazados utilizando da linguagem de programação Python e suas bibliotecas para ler, processar e tokenizar textos, PDFs e CSVs para armazenar para então armazenar seus dados vetorizados no banco de dados</li> 
+    (Uso com autonomia)
+</ul>
+
+#### Soft Skills
+<ul>
+    <li><b>Colaboração:</b> Durante todo o desenvolvimento do projeto a equipe manteve uma linha de comunicação sobre como estava o decorrer das atividades e sempre que um colega de equipe necessitava de um auxílio para uma determinada tarefa que eu tinha mais experiência eu ajudava e o inverso também acontecia permitindo a entrega do produto final sem atrados ou erros.</li>
+    <li><b>Organização:</b> Devido ao alto volume de atividades e avaliações no 6º e último semestre foi extremamente necessário manter a organização e as prioridades das tarefas mais importantes a serem feitas decorrente do tempo disponível, houve diversas situações onde tinha que escolher qual tarefa deveria realizar primeiro na qual as vezes as tarefas relacionadas a API tinham prioridade e outras vezes como avaliações que valiam nota pesavam mais.</li>
+</ul>
+
+
+
