@@ -8,7 +8,9 @@
 
 Meu nome é Mateus de Sousa, tenho 20 anos e sou apaixonado por matemática e problemas de lógica. Logo após concluir o ensino médio em 2022, comecei a estudar programação por conta própria. Após aprender o básico sobre lógica de programação e analisar o mercado de tecnologia, percebi que seria essencial tanto para meu crescimento quanto para minha carreira fazer um curso superior na área. Após seis meses de estudos, ingressei no curso de Análise e Desenvolvimento de Sistemas na FATEC, no segundo semestre de 2022. Durante a faculdade, adquiri experiências valiosas, como participar da maratona de programação da FATEC e fazer um curso de verão sobre os fundamentos da AWS, o que me proporcionou um entendimento profundo dos serviços de nuvem oferecidos pela AWS e me levou à obtenção de uma certificação na plataforma.
 
-Ao longo do semestre, adquiri proficiência em linguagens de programação como Python e Java, além de me familiarizar com a metodologia ágil Scrum. Tive a oportunidade de aplicar esses conhecimentos de forma prática por meio do método de Aprendizagem por Projetos Integrados (API). Essa experiência foi fundamental para que, no 3º semestre, eu conseguisse iniciar minha carreira como estagiário na IONIC Health, onde atuo na área de qualidade de software, contribuindo para o aprimoramento dos processos e produtos da empresa.
+Ao longo do semestre, adquiri proficiência em linguagens de programação como Python e Java, além de me familiarizar com a metodologia ágil Scrum. Tive a oportunidade de aplicar esses conhecimentos de forma prática por meio do método de Aprendizagem por Projetos Integrados (API). Essa experiência foi fundamental para que, no 3º semestre, eu conseguisse iniciar minha carreira como estagiário na <b>IONIC Health</b>, onde atuei na área de qualidade de software, contribuindo para o aprimoramento dos processos e produtos da empresa ate o 5 semestre.
+
+Durante o 5º semestre, optei por encerrar meu estágio na IONIC Health e ingressei como estagiário de desenvolvimento de software na empresa <b>Iez Telecom</b>, onde atuei no desenvolvimento de microserviços. Nesse período, adquiri conhecimentos e experiências em tecnologias amplamente utilizadas no mercado, como gRPC e Golang.
 
 No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, ministrada pelo Professor Dr. Joares Lindovino dos Reis, onde tive a oportunidade de aplicar técnicas de desenvolvimento de pesquisa em um trabalho acadêmico realizado em colaboração com o Professor Dr. Ney Rafael Secco, do Instituto Tecnológico de Aeronáutica (ITA), sob a orientação do Professor Fernando Masanori Ashikaga. Esse projeto envolveu a análise de um banco de dados de aeronaves utilizando Python, com o objetivo de aprimorar as técnicas de estimativa de distância de decolagem aplicáveis ao projeto conceitual desses veículos. Os resultados do estudo passaram a ser aplicados nas aulas de projeto de aeronaves no ITA.
 
@@ -38,6 +40,8 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 </div>
 
 ### Banco de dados
@@ -343,10 +347,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 </ul>
 
 #### Soft Skills
-<ul>
-    <li><b>Colaboração:</b> Durante todo o desenvolvimento do projeto a equipe manteve uma linha de comunicação sobre como estava o decorrer das atividades e sempre que um colega de equipe necessitava de um auxílio para uma determinada tarefa que eu tinha mais experiência eu ajudava e o inverso também acontecia permitindo a entrega do produto final sem atrados ou erros.</li>
-    <li><b>Organização:</b> Devido ao alto volume de atividades e avaliações no 6º e último semestre foi extremamente necessário manter a organização e as prioridades das tarefas mais importantes a serem feitas decorrente do tempo disponível, houve diversas situações onde tinha que escolher qual tarefa deveria realizar primeiro na qual as vezes as tarefas relacionadas a API tinham prioridade e outras vezes como avaliações que valiam nota pesavam mais.</li>
-</ul>
+<ul> <li><b>Colaboração:</b> Durante o desenvolvimento do projeto, a equipe manteve uma comunicação constante por meio de um grupo de WhatsApp, onde realizávamos dailys para alinhar o andamento das atividades. Sempre que algum colega enfrentava dificuldades em tarefas nas quais eu possuía maior experiência, eu me disponibilizava para ajudar. Um exemplo marcante foi quando um colega ficou responsável por consumir os dados retornados pelo backend, exibir corretamente os nomes das LLMs na interface e populá-los em um combo box. Ao perceber que os dados retornavam em uma estrutura variável, orientei-o a utilizar um `HashMap` para organizar e acessar as informações de forma dinâmica e segura. Essa colaboração permitiu que a tarefa fosse concluída corretamente e dentro do prazo, reforçando o espírito de equipe e o compartilhamento de conhecimento.</li> <li><b>Organização:</b> Devido à alta demanda de atividades no 6º semestre, que incluiu avaliações finais e a entrega do projeto, manter uma boa organização foi essencial para o sucesso do time. Para isso, utilizamos o Jira como ferramenta de apoio à gestão ágil, onde cadastrávamos as tarefas com responsáveis, prazos estimados (por meio de Planning Poker) e classificações de prioridade com base no backlog definido pelo Product Owner. A equipe seguiu as cerimônias do Scrum de forma disciplinada, o que nos permitiu entregar todas as funcionalidades solicitadas pelo cliente no tempo estabelecido. Essa organização foi crucial para manter o foco e garantir a eficiência do trabalho coletivo.</li> </ul>
 
 
 
