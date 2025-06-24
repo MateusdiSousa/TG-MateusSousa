@@ -306,7 +306,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 
 ### 6º SEMESTRE - Sistema base para Apredizado por Reforço a partir de feedback humano.
 **Data: Fevereiro/2025**<br></br>
-**Empresa: Doom Rock - Empresa de tecnologia do ramo da tecnologia<br></br>**
+**Empresa: Doom Rock - Empresa de tecnologia<br></br>**
 **Link do projeto:** <a href="https://github.com/FATEC-FULLSTACK/API6">Sistema base para RLHF</a><br></br>
 **Problema:** A Doom Rock necessitava coletar avaliações humanas sobre respostas de LLMs (com e sem RAG) e armazenar essas avaliações visando preparar dados para o retreinamento dos modelos com base no feedback dos usuários.<br></br>
 **Proposta de solução:** A solução foi desenvolver uma aplicação web de avaliação de respostas na qual o usuário enviaria um prompt para o servidor e seria retornado a resposta de duas LLMs com seus modelos não revelados, após isso o usuário realizará uma avaliação de qual modelo foi melhor seguindo os critérios definidos pelo cliente e justificando a resposta. Então todas as informações gerados serão armazenadas em um banco de dados que servirá para futuros retreinamentos<br></br>
