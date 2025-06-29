@@ -324,10 +324,10 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 #### Contribuições Pessoais
 **Como desenvolvedor realizei as seguintes contribuições para o projeto**
 <ul>
-    <li>Desenvolvimento do schema de como os dados das avaliações seriam armazenados no banco de dados (MongoDB).</li>
-    <li>Criação das rotas e services relacionadas a criação, leitura e deleção dos dados referente as avaliações do banco de dados, além disso desenvolvi a rota utilizada para geração do dashboard das LLMs com melhor desempenho.</li>
-    <li>Implementação de aleatoriedade na seleção dos modelos para resposta aos usuários.</li>
-    <li>Conexão com o ChromaDB para recuperação de dados vetoriais, usando o resultado no prompt do usuário como contexto para as LLMs.</li>
+<li>Desenvolvimento do schema para armazenamento dos dados de avaliação no banco de dados (MongoDB), permitindo o uso futuro desses dados para o re-treinamento das LLMs.</li>  
+<li>Criação das rotas e serviços relacionados à collection de avaliações, incluindo operações de criação, leitura e exclusão, além da implementação de uma rota para calcular o total de participações e quantas vezes cada LLM foi avaliada como a melhor.</li>  
+<li>Implementação de um sistema de seleção aleatória dos modelos que respondem ao prompt do usuário, garantindo que todas as LLMs fossem comparadas entre si nas avaliações.</li>  
+<li>Integração do RAG (Retrieval-Augmented Generation), recuperando dados relacionados ao prompt no ChromaDB e utilizando essas informações para gerar um contexto aprimorado para a resposta da LLM.</li>  
 </ul>
 
 #### Hard Skills
