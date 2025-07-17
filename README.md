@@ -68,7 +68,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 | Curso                                 | Plataforma                                                                                 | Status       |
 | :------------------------------------ | :----------------------------------------------------------------------------------------- | :----------- |
 | AWS Academy Cloud Foundations         | [AWS Academy](https://aws.amazon.com/pt/training/awsacademy/)                              | Concluído    |
-| Introduction to MongoDB               | [MongoDB](https://learn.mongodb.com/learning-paths/introduction-to-mongodb)                | Em Andamento |
+| Introduction to MongoDB               | [MongoDB](https://learn.mongodb.com/learning-paths/introduction-to-mongodb)                | Concluído    |
 
 ---
 
